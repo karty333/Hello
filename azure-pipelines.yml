@@ -3,6 +3,7 @@ resources:
   - repository: Shared_Templates
     type: github
     endpoint: karty333
+    ref: refs/tags/1.0
     name: karty333/Shared_Templates
 pool:
   vmImage: ubuntu-latest
